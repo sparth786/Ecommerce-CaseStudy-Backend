@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ParthShah\\EcommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\models\\addtocartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\addtocartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EcommerceAppDB/True/SqlTable/dbo.ProductMaster.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EcommerceAppDB/True/SqlTable/dbo.UserMaster.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|c:\\parthshah\\ecommerceapp\\ecommerceapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EB221BC-617D-47E7-810A-7FF6DF489FA1}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.ProductMaster [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EcommerceAppDB/True/SqlTable/dbo.ProductMaster.sql",
+              "ToolTip": "dbo.ProductMaster [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-29T06:25:39.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCartVM.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\AddToCartVM.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Models\\AddToCartVM.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\AddToCartVM.cs",
+              "RelativeToolTip": "EcommerceApp\\Models\\AddToCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:46:58.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\CartDetails.cs",
+              "RelativeToolTip": "EcommerceApp\\Models\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:31:37.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMaster.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\ProductMaster.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Models\\ProductMaster.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\ProductMaster.cs",
+              "RelativeToolTip": "EcommerceApp\\Models\\ProductMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:26:35.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContextHelper.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\DbContextHelper.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\DbContextHelper.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\DbContextHelper.cs",
+              "RelativeToolTip": "EcommerceApp\\DbContextHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:56:35.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Function1.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Function1.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Function1.cs",
+              "RelativeToolTip": "EcommerceApp\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:58:25.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Models\\UserMaster.cs",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\Models\\UserMaster.cs",
+              "RelativeToolTip": "EcommerceApp\\Models\\UserMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:46:08.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.UserMaster [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EcommerceAppDB/True/SqlTable/dbo.UserMaster.sql",
+              "ToolTip": "dbo.UserMaster [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-28T12:55:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\local.settings.json",
+              "RelativeDocumentMoniker": "EcommerceApp\\local.settings.json",
+              "ToolTip": "C:\\ParthShah\\EcommerceApp\\EcommerceApp\\local.settings.json",
+              "RelativeToolTip": "EcommerceApp\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T11:23:01.726Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
